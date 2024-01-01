@@ -1,5 +1,5 @@
 <meta>
-    <info author="GtaStars" description="A handler resource to account for common uses for voice support" type="misc" version="1.1.0" />
+    <info author="Seav" description="A handler resource to account for common uses for voice support" type="misc" version="1.1.0" />
 	<!--Client -->
 	<script src="cGlobals.lua" type="client" />
 	<script src="client1.lua" type="server" />
